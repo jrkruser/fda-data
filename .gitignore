@@ -1,0 +1,23 @@
+# Python venv
+.venv/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# Environment / config files
+.env
+*.env
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# Kubernetes
+*.local.yaml
+
+# OS files
+.DS_Store
+
+# data
+raw_data/
