@@ -7,14 +7,8 @@ Data is loaded into a schema (`fda_data`) with structured tables for analysis.
 ## Project Structure
 
 ```plaintext
-drug-data-pipeline/
-├── sql/                      # SQL table definitions for each dataset
-├── data/                     # Raw downloaded JSON files (ignored via .gitignore)
-├── .venv/                     # Python virtual environment (ignored via .gitignore)
-├── .gitignore
-├── docker-compose.yml
-├── README.md
-└── main.py                   # Main script for data ingestion
+
+
 ```
 
 ## Requirements
